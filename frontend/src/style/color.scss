@@ -1,0 +1,15 @@
+$primaryColor: #efdcd5;
+$mainColor: #666668;
+
+.primaryColor {
+  color: $primaryColor;
+}
+.mainColor {
+  color: $mainColor;
+}
+.bg-primary {
+  background-color: $primaryColor;
+}
+.bg-main {
+  background-color: $mainColor;
+}
