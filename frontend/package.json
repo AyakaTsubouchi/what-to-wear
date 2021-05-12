@@ -10,7 +10,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "@types/materialize-css": "^1.0.8",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "cors": "^2.8.5",
     "materialize-css": "^1.0.0-rc.2",
     "moment": "^2.26.0",
